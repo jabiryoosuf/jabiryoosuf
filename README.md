@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohammed-mishab-p-032939257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mishab p" height="30" width="40" /></a>
-<a href="https://fb.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mishab p" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammed-jabir-ibnu-yoosuf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jabir" height="30" width="40" /></a>
+<a href="https://fb.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jabir" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mishab_0p/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mishab p" height="30" width="40" /></a>
 <a href="https://discord.gg/mishab9633" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KU10S" height="30" width="40" /></a>
 </p>
